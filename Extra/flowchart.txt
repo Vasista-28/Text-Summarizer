@@ -1,0 +1,11 @@
+1. Installing the Required Package
+2. Importing the Packages
+3. Loading the pretrained BERT Model function 
+4. Flask Framework with  SQLite for Signup and Signin
+5. The user provide input for Summarization
+6. Based on the given input and Number of sentence mentioned 
+the content is summarized based on bert model
+7. The Summarize content is then Topic modelled based on LDA 
+8. The Final Summarized Content and Topics are displayed as final
+outcome in the frontend
+9. Likewise we can provide random content for summarization
